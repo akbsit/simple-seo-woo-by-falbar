@@ -1,0 +1,25 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple SEO Woo by falbar 1\n"
+"POT-Creation-Date: 2016-06-05 10:28+0300\n"
+"PO-Revision-Date: 2016-06-05 10:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: Anton Kuleshov\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: class-falbar-sswbf.php\n"
+
+#: class-falbar-sswbf.php:55
+msgid "To work"
+msgstr ""
+
+#: class-falbar-sswbf.php:55
+msgid "needed plugin: Simple SEO by falbar since v 1.0.3 !"
+msgstr ""
